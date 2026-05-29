@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class a3_operadores_de_atribuicao_e_logicos {
+public class a03_operadores_de_atribuicao_e_logicos {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in); // Operador de atribuição ( = )
 
